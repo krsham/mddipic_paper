@@ -1,0 +1,7 @@
+Copyright (c) 2026 Koorosh Ahmadi
+
+Original software in this package is licensed under GPL-3.0-only with the
+additional MATLAB permission in LICENSES/MATLAB_EXCEPTION.txt.
+
+Published methods and standards are credited in REFERENCES.bib and
+THIRD_PARTY_NOTICES.md. MATLAB and its toolboxes retain their own terms.

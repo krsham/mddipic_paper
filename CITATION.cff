@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the unpublished manuscript and identify this software version; see CITATION.md."
+type: software
+title: "MDDIPIC MATLAB paper code"
+version: "1.0.0-rc1"
+authors:
+  - family-names: Ahmadi
+    given-names: Koorosh
+license: GPL-3.0-only
+keywords:
+  - OTFS
+  - ISAC
+  - MDDIPIC
+  - parameter estimation
+repository-code: "https://github.com/krsham/mddipic_paper"

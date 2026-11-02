@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd /code
+matlab -batch "setup; run_capsule_demo('OutputDir','/results','ShowFigures',false);"

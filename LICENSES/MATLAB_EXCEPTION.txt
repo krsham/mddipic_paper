@@ -1,0 +1,14 @@
+Additional permission under GNU GPL version 3, section 7
+
+For the project-original files that refer to this notice, Koorosh Ahmadi
+grants additional permission to combine or interface those
+files with a lawfully licensed installation of MATLAB and the MathWorks
+toolboxes needed to execute them, and to convey the project-original files
+for that purpose. This permission does not remove the GPL obligations for
+the project-original files or authorize redistribution of MATLAB, toolbox
+implementation files, MathWorks example code, license keys, or other
+third-party material. Third-party materials retain their own terms.
+
+This permission covers Koorosh Ahmadi's project-original software only.
+It does not override third-party licenses or grant permission to
+redistribute proprietary MathWorks software with this package.
