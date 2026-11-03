@@ -1,5 +1,7 @@
 # MDDIPIC MATLAB paper code
 
+[![DOI](https://zenodo.org/badge/1443442926.svg)](https://doi.org/10.5281/zenodo.23907615)
+
 MATLAB implementations of MDDIPIC and DRAP for multi-antenna OTFS sensing and channel estimation, with DDAFR, MDDAFR, OMP and NOMP baselines. A small reproducible demonstration covers sensing, communication, model-order stopping, computational options and LMMSE equalization.
 
 ## Requirements
@@ -50,7 +52,14 @@ The demo reports failures explicitly. Parallel timings and single-trial results 
 
 The delay reference backend builds a dense matrix from installed `delayseq` responses. It uses quadratic storage per path and is intended for small examples; its timing does not characterize an FFT implementation.
 
-## License and citation
+## Archived release and citation
+
+Version **1.0.0** is archived in Zenodo: [10.5281/zenodo.23907616](https://doi.org/10.5281/zenodo.23907616).
+Use this version DOI when citing the released code. The [all-versions DOI](https://doi.org/10.5281/zenodo.23907615) resolves to the latest archived version.
+
+> K. Ahmadi, “MDDIPIC MATLAB paper code,” version 1.0.0, Zenodo, Nov. 2026. [Computer software]. https://doi.org/10.5281/zenodo.23907616
+
+## License and attribution
 
 Copyright © 2026 Koorosh Ahmadi. Original software is available under GPL-3.0-only with the additional MATLAB permission in [LICENSES/MATLAB_EXCEPTION.txt](LICENSES/MATLAB_EXCEPTION.txt). MATLAB and toolbox licenses are obtained separately.
 

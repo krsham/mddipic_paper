@@ -3,6 +3,7 @@ message: "Please cite this software and the associated manuscript; see CITATION.
 type: software
 title: "MDDIPIC MATLAB paper code"
 version: "1.0.0"
+doi: 10.5281/zenodo.23907616
 date-released: 2026-11-03
 abstract: >-
   MATLAB implementations of MDDIPIC and DRAP for multi-antenna OTFS sensing
